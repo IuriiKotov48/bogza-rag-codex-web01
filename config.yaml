@@ -1,7 +1,7 @@
 pdf_dir: ./pdfs
 rooms:
   - "Room 101"
-model_path: ./models/TinyLlama-1.1B-Chat-q4_k_m.gguf
+model_path: C:/Users/ik/.ollama/models/blobs/sha256-43f7a214e5329f672bb05404cfba1913cbb70fdaa1a17497224e1925046b0ed5
 output_dir: ./outputs
 ctx_size: 2048
 temperature: 0.05
