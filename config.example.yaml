@@ -1,0 +1,9 @@
+pdf_dir: ./pdfs
+rooms:
+  - "Room 101"
+model_path: ./models/TinyLlama-1.1B-Chat-q4_k_m.gguf
+output_dir: ./outputs
+ctx_size: 2048
+temperature: 0.05
+top_p: 0.15
+max_pages: null
